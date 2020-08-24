@@ -1,6 +1,8 @@
 package com.example.testprojects
 import java.util.Scanner
 
+//program to multiply two numbers
+
 class Multiplication{
     fun multi(){
         val reader = Scanner (System.`in`)

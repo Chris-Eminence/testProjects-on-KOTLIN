@@ -1,6 +1,8 @@
 package com.example.testprojects
 
-import java.util.*
+import java.util.Scanner
+
+//program to check for average of two numbers
 
 class Average{
     fun average(){
